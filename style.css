@@ -76,3 +76,9 @@ h1 {
 #date-title {
     margin-bottom: 10%;
 }
+
+.moon-phase-title {
+    color: #F4F6F0;
+    font-size: 1.5em;
+    margin-bottom: 10%;
+}
